@@ -1,0 +1,4 @@
+.place__paragraphs {
+	grid-template-areas: text;
+	padding: 0;
+}

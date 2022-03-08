@@ -1,0 +1,10 @@
+.place__image {
+	grid-template-areas: image;
+	max-width: 460px;
+	width: 100%;
+}
+@media screen and (max-width: 1024px) {
+	.place__image .place__title {
+		max-width: 440px;
+	}
+}
