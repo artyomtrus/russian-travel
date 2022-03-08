@@ -2,3 +2,9 @@
 	grid-template-areas: text;
 	padding: 0;
 }
+
+@media screen and (max-width: 320px) {
+	.place__paragraphs {
+		margin: 0 16px 0;
+	}
+}

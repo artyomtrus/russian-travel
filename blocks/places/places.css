@@ -3,13 +3,13 @@
 	padding: 0;
 	list-style-type: none;
 }
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1025px) {
 	.places {
 		margin: 12px 48px 0;
 	}
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 769px) {
 	.places {
 		margin: 12px 24px 0;
 	}

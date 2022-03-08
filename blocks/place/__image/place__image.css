@@ -3,8 +3,8 @@
 	max-width: 460px;
 	width: 100%;
 }
-@media screen and (max-width: 1024px) {
-	.place__image .place__title {
+@media screen and (max-width: 1025px) {
+	.place__image {
 		max-width: 440px;
 	}
 }
