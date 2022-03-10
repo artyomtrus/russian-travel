@@ -12,6 +12,8 @@
 	background-size: contain;
 	position: relative;
 	z-index: 1;
+	text-decoration: none;
+	color: #fff;
 }
 
 .cover::before {
